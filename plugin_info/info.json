@@ -1,0 +1,19 @@
+{
+	"id" : "gammusms",
+	"name" : "Gammu SMS",
+	"description" : {
+		"fr_FR": "Gestion des SMS via Gammu"
+	},
+	"licence" : "MIT",
+	"author" : "jeromeklam",
+	"require" : "3.3.39",
+	"category" : "programming",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "https://github.com/jeromeklam/gammu-sms/blob/main/README.md",
+	"language": [
+		"fr_FR"
+	],
+	"compatibility": []
+}
